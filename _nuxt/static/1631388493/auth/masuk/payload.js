@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/auth/masuk", {data:[{}],fetch:{},mutations:[]});

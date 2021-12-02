@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/auth/daftar", {data:[{}],fetch:{},mutations:[]});
